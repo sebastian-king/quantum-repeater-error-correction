@@ -1,0 +1,18 @@
+{
+    "_read_user": true,
+    "max_qubits": 200,
+    "max_registers": 1000,
+    "conn_retry_time": 0.5,
+    "recv_timeout": 100,
+    "recv_retry_time": 0.1,
+    "log_level": 30,
+    "backend": "qutip",
+    "network_config_file": "/usr/local/lib/python3.6/dist-packages/simulaqron/config/network.json",
+    "app_file": null,
+    "cqc_file": null,
+    "vnode_file": null,
+    "nodes_file": null,
+    "topology_file": null,
+    "noisy_qubits": false,
+    "t1": 1.0
+}

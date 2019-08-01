@@ -1,0 +1,77 @@
+{
+    "repeater_system": {
+        "nodes": {
+            "Alice": {
+                "app_socket": [
+                    "localhost",
+                    8000
+                ],
+                "cqc_socket": [
+                    "localhost",
+                    8001
+                ],
+                "vnode_socket": [
+                    "localhost",
+                    8002
+                ]
+            },
+            "Bob": {
+                "app_socket": [
+                    "localhost",
+                    8003
+                ],
+                "cqc_socket": [
+                    "localhost",
+                    8004
+                ],
+                "vnode_socket": [
+                    "localhost",
+                    8005
+                ]
+            },
+            "Repeater1": {
+                "app_socket": [
+                    "localhost",
+                    8006
+                ],
+                "cqc_socket": [
+                    "localhost",
+                    8007
+                ],
+                "vnode_socket": [
+                    "localhost",
+                    8008
+                ]
+            },
+            "Repeater2": {
+                "app_socket": [
+                    "localhost",
+                    8009
+                ],
+                "cqc_socket": [
+                    "localhost",
+                    8010
+                ],
+                "vnode_socket": [
+                    "localhost",
+                    8011
+                ]
+            },
+            "Repeater3": {
+                "app_socket": [
+                    "localhost",
+                    8012
+                ],
+                "cqc_socket": [
+                    "localhost",
+                    8013
+                ],
+                "vnode_socket": [
+                    "localhost",
+                    8014
+                ]
+            }
+        },
+        "topology": null
+    }
+}
